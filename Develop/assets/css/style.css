@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/*fixed the selectors to match the semantic html elements*/
 body {
     background-color: #d9dcd6;
 }
@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*fixed the font sizes to match the mock-up imgage */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -40,7 +40,7 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*fixed the banner image sizing*/
 .top-banner,
 .align-top {
     width: 100%;
