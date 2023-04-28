@@ -5,9 +5,9 @@ The motive of this project was to adjust the starter code to follow accessibilit
 
 Links
 
-Deployed Application URL :
+Deployed Application URL : https://destinymarie32601.github.io/module-one/
 
-Github Repository Link: 
+Github Repository Link: https://github.com/destinymarie32601/module-one
 
 Usage
 
