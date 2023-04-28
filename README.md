@@ -1,5 +1,4 @@
 # Module 1 Challenge
-<<<<<<< HEAD
 ## Description
 
 The motive of this project was to adjust the starter code to follow accessibility standards so that the site is optimized for search engines. The application includes semantic HTML elements that follow a logical structure. The images in this application include accessible alt attributes. The heading attributes are in sequential order, and the HTML contains a descriptive title. The styling in this application was updated to follow the semantic HTML elements, and match the appearance and functionality of the mock-up image. 
@@ -22,5 +21,3 @@ Website Screenshot
 
 Credits 
 
-=======
->>>>>>> d369fbe21b01ad12059ad74356a554be42f5eb98
